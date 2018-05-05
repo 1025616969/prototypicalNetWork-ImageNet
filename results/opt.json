@@ -1,0 +1,1 @@
+{"data.way": 30, "data.shot": 1, "data.query": 5, "data.test_way": 5, "data.test_shot": 1, "data.test_query": 15, "data.train_episodes": 100, "data.test_episodes": 100, "data.cuda": true, "train.epoches": 50, "train.optim_method": "Adam", "train.learning_rate": 0.001, "train.decay_every": 20, "train.weight_decay": 0.0, "log.exp_dir": "results", "run_mode": "train"}
